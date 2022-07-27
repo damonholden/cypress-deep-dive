@@ -11,3 +11,5 @@ cypress installation followed the cypress 'getting started' docs: https://docs.c
 end-to-end tests follow the cypress docs here: https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
 
 cypress eslint plugin set-up using this link: https://github.com/cypress-io/eslint-plugin-cypress
+
+Cypress intellisense achieved following cypress's documentation on IDE integration: https://docs.cypress.io/guides/tooling/IDE-integration#Set-up-in-your-Dev-Environment
